@@ -1,0 +1,22 @@
+.navbar69 {
+  background-color: hsl(248.4, 70%, 50%);
+  padding: 10px 20px;
+}
+.navbar69 ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar69 li {
+  margin: 0 15px;
+}
+.navbar69 a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+.navbar69 a:hover {
+  text-decoration: underline;
+}

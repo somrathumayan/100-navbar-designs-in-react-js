@@ -1,0 +1,22 @@
+.navbar85 {
+  background-color: hsl(306.0, 70%, 50%);
+  padding: 10px 20px;
+}
+.navbar85 ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar85 li {
+  margin: 0 15px;
+}
+.navbar85 a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+.navbar85 a:hover {
+  text-decoration: underline;
+}

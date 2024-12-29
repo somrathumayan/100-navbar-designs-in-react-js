@@ -1,0 +1,22 @@
+.navbar65 {
+  background-color: hsl(234.0, 70%, 50%);
+  padding: 10px 20px;
+}
+.navbar65 ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar65 li {
+  margin: 0 15px;
+}
+.navbar65 a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+.navbar65 a:hover {
+  text-decoration: underline;
+}

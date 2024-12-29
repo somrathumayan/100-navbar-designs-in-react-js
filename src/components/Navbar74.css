@@ -1,0 +1,22 @@
+.navbar74 {
+  background-color: hsl(266.40000000000003, 70%, 50%);
+  padding: 10px 20px;
+}
+.navbar74 ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar74 li {
+  margin: 0 15px;
+}
+.navbar74 a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+.navbar74 a:hover {
+  text-decoration: underline;
+}

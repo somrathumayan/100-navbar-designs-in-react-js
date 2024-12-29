@@ -1,0 +1,22 @@
+.navbar54 {
+  background-color: hsl(194.4, 70%, 50%);
+  padding: 10px 20px;
+}
+.navbar54 ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar54 li {
+  margin: 0 15px;
+}
+.navbar54 a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+.navbar54 a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,22 @@
+.navbar34 {
+  background-color: hsl(122.4, 70%, 50%);
+  padding: 10px 20px;
+}
+.navbar34 ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar34 li {
+  margin: 0 15px;
+}
+.navbar34 a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+.navbar34 a:hover {
+  text-decoration: underline;
+}

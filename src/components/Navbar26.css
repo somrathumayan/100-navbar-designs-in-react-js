@@ -1,0 +1,22 @@
+.navbar26 {
+  background-color: hsl(93.60000000000001, 70%, 50%);
+  padding: 10px 20px;
+}
+.navbar26 ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar26 li {
+  margin: 0 15px;
+}
+.navbar26 a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+.navbar26 a:hover {
+  text-decoration: underline;
+}

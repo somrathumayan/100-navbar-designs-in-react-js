@@ -1,0 +1,22 @@
+.navbar41 {
+  background-color: hsl(147.6, 70%, 50%);
+  padding: 10px 20px;
+}
+.navbar41 ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar41 li {
+  margin: 0 15px;
+}
+.navbar41 a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+.navbar41 a:hover {
+  text-decoration: underline;
+}

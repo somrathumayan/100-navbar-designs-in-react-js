@@ -1,0 +1,22 @@
+.navbar30 {
+  background-color: hsl(108.0, 70%, 50%);
+  padding: 10px 20px;
+}
+.navbar30 ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar30 li {
+  margin: 0 15px;
+}
+.navbar30 a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+.navbar30 a:hover {
+  text-decoration: underline;
+}
